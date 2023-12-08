@@ -18,4 +18,4 @@ const ingredients = [
      newLi.classList.add("item");
     elements.push(newLi)
     })
-  append(...elements);
+    ulIngredients.append(...elements);
